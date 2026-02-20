@@ -1,5 +1,5 @@
 # res-demo
 this is my first repository
-<\n>
+<br>
 Author=Miikee
 
